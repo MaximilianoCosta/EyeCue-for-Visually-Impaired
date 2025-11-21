@@ -100,6 +100,8 @@ Scan the QR code displayed in the terminal using the Expo Go app on your phone t
 
 ## 📜 Credits
 Developed by:     
-- **Khaled Alharbi**  
+- **Khaled Alharbi**
+
+
 Supervised by:  
 - **Dr. Asma Badr Abdullah Alsaleh**
