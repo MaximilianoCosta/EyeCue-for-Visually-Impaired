@@ -44,10 +44,10 @@ To run the application locally, you need to set up both the frontend (mobile app
 
 ### 1. Install required software
 Ensure you have the following installed on your machine:
-a. Node.js and npm
-b. Python 3.8+
-c. Expo CLI `npm install -g expo-cli`
-d. Expo Go app on your smartphone (Android or iOS)
+a. Node.js and npm  
+b. Python 3.8+  
+c. Expo CLI `npm install -g expo-cli`  
+d. Expo Go app on your smartphone (Android or iOS)  
 
 ### 2. Set up the Python Backend
 Navigate to the backend folder and install the required Python libraries:  
@@ -98,7 +98,7 @@ Scan the QR code displayed in the terminal using the Expo Go app on your phone t
 </p>
 
 ## 📜 Credits
-Developed by:   
-- **Khaled Alharbi**
-Supervised by:
+Developed by:     
+- **Khaled Alharbi**  
+Supervised by:  
 - **Dr. Asma Badr Abdullah Alsaleh**
