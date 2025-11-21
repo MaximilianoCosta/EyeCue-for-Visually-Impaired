@@ -1,4 +1,5 @@
-# 👁️ EyeCue: An Intelligent Visual Assistance Application for the Visually Impaired  
+# 👁️ EyeCue
+> *An Intelligent Visual Assistance Application for the Visually Impaired*  
 *By Khaled Alharbi*
 
 ---
