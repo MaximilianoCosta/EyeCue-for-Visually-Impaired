@@ -40,10 +40,11 @@ The application features a gesture-based interface optimized for accessibility, 
 ---
 
 ## Setup Notes  
-To run the application locally, you need to set up both the frontend (mobile application) and the backend (AI server).
+To run the application locally,  
+you need to set up both the frontend (mobile application) and the backend (AI server).
 
 ### 1. Install required software
-Ensure you have the following installed on your machine:
+Ensure you have the following installed on your machine:  
 a. Node.js and npm  
 b. Python 3.8+  
 c. Expo CLI `npm install -g expo-cli`  
