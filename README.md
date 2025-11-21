@@ -90,13 +90,13 @@ Scan the QR code displayed in the terminal using the Expo Go app on your phone t
 
 ## 📷 Screenshots
 <p align="center">
-  <img src="home-page.png" alt="Homepage" width="45%">
-  <img src="category-page.png" alt="Category Page" width="45%">
+  <img src="detectUI.png" alt="Detect Mode" width="45%">
+  <img src="describeUI.png" alt="Describe Mode" width="45%">
 </p>
 
 <p align="center">
-  <img src="books-preview2.png" alt="Books Preview 2" width="45%">
-  <img src="books-preview1.png" alt="Books Preview 1" width="45%">
+  <img src="vqaUI.png" alt="VQA Feature" width="45%">
+  <img src="colorUI.png" alt="Color Mode" width="45%">
 </p>
 
 ## 📜 Credits
