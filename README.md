@@ -6,7 +6,7 @@
 
 ## 📖 Overview  
 EyeCue is a mobile application designed to empower visually impaired individuals by helping them navigate and understand their surroundings independently.
-By leveraging the power of Artificial Intelligence and Computer Vision, EyeCue converts visual information into meaningful audio feedback. 
+By utilizing the power of Artificial Intelligence and Computer Vision, EyeCue converts visual information into meaningful audio feedback. 
 Users can detect objects, understand entire scenes, identify colors, and even ask specific questions about what the camera sees.
 The application features a gesture-based interface optimized for accessibility, ensuring a seamless experience without the need for complex on-screen interactions.
 
