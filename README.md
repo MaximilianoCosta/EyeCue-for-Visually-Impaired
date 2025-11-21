@@ -90,7 +90,7 @@ Scan the QR code displayed in the terminal using the Expo Go app on your phone t
 
 ## 📷 Screenshots
 <p align="center">
-  <img src="detectUI.png" alt="Detect Mode" width="45%">
+  <img src="detectUI.png" alt="Detect Mode" width="35%">
   <img src="describeUI.png" alt="Describe Mode" width="45%">
 </p>
 
