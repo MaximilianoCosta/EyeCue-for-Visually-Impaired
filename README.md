@@ -1,7 +1,7 @@
 # 👁️ EyeCue
 *By Khaled Alharbi*  
 > *An Intelligent Visual Assistance Application for the Visually Impaired*  
-<img src="EyeCue-logo.png" alt="EyeCue logo" width="45%">
+<img src="EyeCue-logo.png" alt="EyeCue logo" width="20%">
 
 ---
 
